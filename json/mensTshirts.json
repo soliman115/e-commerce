@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "instok": 50,
+    "description": 2.9307604836,
+    "price": "$100.00",
+    "images": [
+      "https://ventsmagazine.com/wp-content/uploads/2021/11/aaas.jpg",
+      "https://5.imimg.com/data5/QS/ML/MY-27678632/casual-t-shirt-250x250.jpg",
+      "https://4.imimg.com/data4/KS/HD/MY-718120/mens-casual-t-shirts-250x250.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "T-shirt",
+    "instok": 100,
+    "description": 0.1847819597,
+    "price": "$200.08",
+    "images": [
+      "https://5.imimg.com/data5/GX/XW/MY-67450080/mens-black-plain-t-shirt-500x500.jpg",
+      "https://n.nordstrommedia.com/id/sr3/8cc04dc2-833f-4fda-aea1-ef6654e58d6a.jpeg?h=365&w=240&dpr=2",
+      "https://cdn-bomfl.nitrocdn.com/rzZpPigBUngxjZMRSaCuiFEGftyHDpua/assets/static/optimized/rev-7f85334/wp-content/uploads/2021/04/www.bewakoof.com18meteor-grey-half-sleeve-t-shirt-men-s-plain-t-shirts-211953-1584075909-1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Polo T-shirt",
+    "instok": 60,
+    "description": 0.0126652831,
+    "price": "$300.06",
+    "images": [
+      "https://rukminim1.flixcart.com/image/332/398/l3bx5e80/t-shirt/1/b/w/xl-ts1-vebnor-original-imagegzdpgsmawfs.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/332/398/kfoapow0-0/t-shirt/n/q/t/5xl-rc24solidmgreen-roden-original-imafw2k64hkhssxr.jpeg?q=50",
+      "https://m.media-amazon.com/images/I/418sp7U87ZL.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Polo T-shirt",
+    "instok": 60,
+    "description": 0.0126652831,
+    "price": "$300.06",
+    "images": [
+      "https://rukminim1.flixcart.com/image/332/398/l3bx5e80/t-shirt/1/b/w/xl-ts1-vebnor-original-imagegzdpgsmawfs.jpeg?q=50",
+      "https://rukminim1.flixcart.com/image/332/398/kfoapow0-0/t-shirt/n/q/t/5xl-rc24solidmgreen-roden-original-imafw2k64hkhssxr.jpeg?q=50"
+      ,"https://cdn-3.jjshouse.com/upimg/s400/27/bf/1a43e10628a8d611d9a44dbe42c527bf.jpg" 
+    ]
+  }
+]

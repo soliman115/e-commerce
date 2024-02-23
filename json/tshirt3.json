@@ -1,0 +1,15 @@
+[
+    {
+        "id": 3,
+        "name": "Polo T-shirt",
+        "instok": 60,
+        "description": 0.0126652831,
+        "price": "$300.06",
+        "images": [
+          "https://m.media-amazon.com/images/I/418sp7U87ZL.jpg",
+          "https://rukminim1.flixcart.com/image/332/398/l3bx5e80/t-shirt/1/b/w/xl-ts1-vebnor-original-imagegzdpgsmawfs.jpeg?q=50",
+          "https://5.imimg.com/data5/DA/EP/CW/SELLER-55585817/mens-casual-t-shirt-500x500.jpg"
+          
+        ]
+      }
+]

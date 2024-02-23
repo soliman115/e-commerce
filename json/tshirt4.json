@@ -1,0 +1,14 @@
+[
+    {
+        "id": 4,
+        "name": "T-shirt",
+        "instok": 60,
+        "description": 0.0126652831,
+        "price": "$100.06",
+        "images": [
+          "https://assets.ajio.com/medias/sys_master/root/20211110/psiI/618c0393f997ddf8f1012a23/-473Wx593H-463298317-black-MODEL.jpg",
+          "https://assets.ajio.com/medias/sys_master/root/20210628/roD3/60da16ceaeb269a9e32bef11/-473Wx593H-461887305-grey-MODEL.jpg",
+          "https://static-01.daraz.com.bd/p/154d29b6fdda74543f6acc39b43ef23a.jpg"
+        ]
+      }
+]

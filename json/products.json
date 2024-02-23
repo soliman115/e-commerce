@@ -1,0 +1,227 @@
+[
+  {
+    "id":1,
+    "title": "T-Shirt",
+    "price":500,
+    "stock":5,
+    "description":"Very Nice T-Shirtand Jeans For Men's",
+    "img":" https://5.imimg.com/data5/WP/BU/MY-18521822/mens-formal-shirt-500x500.jpg"
+  },
+  {
+    "id":2,
+    "title": "Black Jaket",
+    "price":500,
+    "stock":5,
+    "description":"Very Nice Blak Jaket For Men's",
+    "img":" https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/94/866242/2.jpg?1054"
+  },
+  {
+    "id":3,
+    "title": "T-Shirt",
+    "price":100,
+    "stock":100,
+    "description":"T-Shirt For Men's",
+    "img":"https://assets.ajio.com/medias/sys_master/root/20220121/ihND/61ea59caaeb2695cdd24448d/ausk_blue_crew-neck_t-shirt_with_contrast_stripes.jpg"
+  },
+    {
+      "id":4,
+     "title": "Blue Dress",
+     "price":200,
+     "stock":10,
+     "description":"Blue Dress For Womens",
+     "img":" https://i.pinimg.com/originals/e7/0e/cb/e70ecbf5637a50534f67cb0fcd4c2706.png"
+    },
+    {
+      "id":5,
+      "title": "Top",
+      "price":500,
+      "stock":4,
+      "description":"Top For Women's",
+      "img":" https://ae01.alicdn.com/kf/Ha43dd98702fe41758300c15020ff833eL.jpg"
+    },
+
+    {
+      "id":6,
+      "title": "Blue Blouse",
+      "price":100,
+      "stock":20,
+      "description":"Blue Blouse For Women's",
+      "img":"https://i.pinimg.com/originals/2f/57/b0/2f57b0b9719fb8e37d7a8f9cafca7255.jpg"
+    },
+    {
+      "id":7,
+      "title": "Summer Dress",
+      "price":200,
+      "stock":20,
+      "description":"Summer Dress For Women's",
+      "img":"https://i5.walmartimages.com/asr/c26995fc-0441-4f66-bd18-13f54da1b508.bdb57e28b5ca8cf36d2c4add7def8c48.jpeg"
+    },
+    {
+      "id":8,
+      "title": "White SweatShirt",
+      "price":200,
+      "stock":4,
+      "description":"White SweatShirt For Women's",
+      "img":" https://i.ebayimg.com/images/g/MesAAOSw8RBg0cL~/s-l400.jpg"
+    },
+    
+    {
+      "id":9,
+      "title": "Blak Dress",
+      "price":200,
+      "stock":20,
+      "description":"Blak Dress For Women's",
+      "img":"https://s4.weddbook.com/t4/2/0/0/2005375/womens-dresses.jpg"
+    },
+    {
+      "id":10,
+      "title": "White Top",
+      "price":200,
+      "stock":20,
+      "description":"White Top For Ladies",
+      "img":"https://images.meesho.com/images/products/12569934/cf232_512.jpg"
+    },
+    {
+      "id":9,
+      "title": "Gray Blouse",
+      "price":100,
+      "stock":20,
+      "description":"Gray Blouse For Womens",
+      "img":"https://static-01.daraz.pk/p/50a41f8709b2e6bdbef0c3f17f6bb8e1.jpg"
+    },
+    {
+      "id":11,
+      "title": "Nice Blouse",
+      "price":200,
+      "stock":20,
+      "description":"Blouse For Ladies",
+      "img":"https://i.pinimg.com/originals/87/2e/0b/872e0ba75c1fc9c65781df3819b6a9c7.jpg"
+    },
+    {
+      "id":12,
+      "title": "Pink Blouse",
+      "price":200,
+      "stock":20,
+      "description":"Pink Blouse For Ladies",
+      "img":"https://sc04.alicdn.com/kf/H8c3bd38498d34bdbb09f74091f7b23a2j.jpg"
+    },
+    {
+      "id":13,
+      "title": "Shirt",
+      "price":200,
+      "stock":20,
+      "description":" Blouse For Ladies",
+      "img":"https://sc04.alicdn.com/kf/H5b216a07852049a883167e7037cef926x.jpg"
+    },
+    {
+      "id":14,
+      "title": "Shirt",
+      "price":200,
+      "stock":20,
+      "description":" Blouse For Ladies",
+      "img":"https://i5.walmartimages.com/asr/8018d580-cc1a-4eb3-ad6e-ae1d8b30c0c6.e28a7ec4217d8d1d668af234deb3e91a.jpeg"
+    },
+    {
+      "id":15,
+      "title": "Shirt",
+      "price":200,
+      "stock":20,
+      "description":" Blouse For Ladies",
+      "img":"https://ae01.alicdn.com/kf/S561b77b2e8434d8dba24d2ca826b0465z/Blusas-Mujer-De-Moda-2022-Korean-Sleeveless-Blouses-Summer-Casual-Women-Clothing-New-Women-Tops-Knit.jpg"
+    },
+   
+    {
+      "id":16,
+      "title": "Girl kids",
+      "price":150,
+      "stock":8,
+      "description":"kids Clothes for Girles",
+      "img":"https://cdn.shopify.com/s/files/1/0061/6642/products/charmer_stone_2.jpg?v=1571438518"
+    },
+    {
+      "id":17,
+      "title": "Girl kids",
+      "price":150,
+      "stock":8,
+      "description":"kids Clothes for Girles",
+      "img":"https://i.etsystatic.com/5905067/r/il/8a288e/3126157385/il_340x270.3126157385_dyjd.jpg"
+    },
+    {
+      "id":18,
+      "title": "Cute Outfit",
+      "price":150,
+      "stock":8,
+      "description":"kids Clothes for Girles",
+      "img":"https://media.kohlsimg.com/is/image/kohls/2022-114166-nav1-m"
+    },
+    {
+      "id":19,
+      "title": "Jeans Outfit",
+      "price":200,
+      "stock":8,
+      "description":"kids Clothes for Girles",
+      "img":"https://i.pinimg.com/564x/da/be/fa/dabefa01d900a52c013585007d2f3c81.jpg"
+    },
+    {
+      "id":20,
+      "title": "Baby Girl",
+      "price":300,
+      "stock":8,
+      "description":"kids Clothes for Girles",
+      "img":"https://cdn.shopify.com/s/files/1/0009/8156/5492/products/ribbed-suspender-tights-australia-lulu-babe_1200x.jpg?v=1656946098"
+    },
+    
+    {
+      "id":21,
+      "title": "Bag",
+      "price":500,
+      "stock":10,
+      "description":"Bag For Ladies",
+      "img":"https://ae01.alicdn.com/kf/Had01da781e7e49e6a648755fa08ad7aeZ/Tweed-Small-Fragrance-Handbag-2021-Spring-New-Fashion-Single-Shoulder-Messenger-Bag-Female-Strap-Banquet-Dress.jpg"
+    },
+    {
+      "id":23,
+      "title": "Gray Bag",
+      "price":400,
+      "stock":10,
+      "description":"Bag For Ladies",
+      "img":" https://lzd-img-global.slatic.net/g/p/64e00b4ebdc4374e9b8808460e09153d.png_2200x2200q80.jpg_.webp"
+    },
+
+    {
+      "id":24,
+      "title": "Bag",
+      "price":500,
+      "stock":10,
+      "description":"Bag For Ladies",
+      "img":" https://cdn01.pinkoi.com/product/1TRhGn9h/0/2/640x530.jpg"
+    },
+    {
+      "id":25,
+      "title": "Shose",
+      "price":300,
+      "stock":10,
+      "description":"Shose For Men",
+      "img":" https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/030242/1.jpg?6025"
+    },
+    {
+      "id":23,
+      "title": "Shose",
+      "price":500,
+      "stock":10,
+      "description":"Shose For Ladies",
+      "img":" https://ae01.alicdn.com/kf/H4adde04ea91a407fa7424f65132b9c21P.jpg?width=800&height=800&hash=1600"
+    },
+    {
+      "id":26,
+      "title": "Shose",
+      "price":200,
+      "stock":10,
+      "description":"Bag For Ladies",
+      "img":" https://i2.wp.com/jouzal.com/wp-content/uploads/2019/07/20190701_143508-1016x1024.png"
+    }
+    
+
+   
+  ]
+  

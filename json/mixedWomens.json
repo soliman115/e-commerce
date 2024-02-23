@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "name": "SweatShirt",
+      "instok": 50,
+      "description":"Polerones Mujer 2019 Frauen Oansatz Mode Lässig Einfarbig Kaffee Tasse Muster Lange Hülse Plus Samt Sweatshirt Dropship L29",
+      "price": "$100.22",
+      "image":[
+      "https://ae01.alicdn.com/kf/H892f069dd0734955832831da5755b5cd8/Polerones-Mujer-2019-Women-O-Neck-Fashion-Casual-Solid-Color-Coffee-Cup-Pattern-Long-Sleeve-Plus.jpg",
+      "https://m.media-amazon.com/images/I/71q7eDVZAHL._AC_UX342_.jpg"
+    ]
+    },
+    {
+      "id": 2,
+      "name": " Top T-Shirt",
+      "instok": 40,
+      "description": 1.311633315, 
+      "price": "$200.93",
+      "image": [
+        "https://img.joomcdn.net/6e6a80c347abdbf874a3f9ec72d24ccdefc84f43_original.jpeg",
+        "https://ae01.alicdn.com/kf/Hc9915cc106a24e378cfc87f10c097b5eI.jpg?width=800&height=800&hash=1600"
+    ]
+    },
+   {
+    "id": 3,
+    "name": " Old Navy",
+    "instok": 30,
+    "description": "s",
+    "price": "$700.77",
+    "image": [
+      "https://akgalleria.com/media/catalog/product/cache/0b77c2bcfc2e98f26722a5fcfbf20ee8/t/d/td-0021_1_elphe7i3iqctfmwp.jpg",
+      "https://oldnavy.gap.com/Asset_Archive/ONWeb/content/0029/395/863/assets/220700_96-M7659_W_DP_PJs.jpg"
+    ]
+    
+ },
+ {
+  "id": 4,
+  "name": "Jeans Jaket",
+  "instok": 30,
+  "description": "",
+  "price": "$100.77",
+  "image": [
+  "https://i.pinimg.com/474x/c1/31/67/c131673315427647bdc5ada84666b6f6.jpg",
+  "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/379822/1.jpg?9937"
+]
+  
+}
+  ]
+  

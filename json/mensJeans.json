@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Harlan Jeans",
+      "instok": 50,
+      "description": 2.9307604836,
+      "price": "$80.22",
+      "image":"https://static-01.daraz.com.bd/p/bc403a6d132bb69bfa7951808a352f88.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gap Jeans",
+      "instok": 40,
+      "description": 1.311633315, 
+      "price": "$90.93",
+      "image": "https://www.gapfactory.com/webcontent/0017/245/539/cn17245539.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Leg Jeans",
+      "instok": 30,
+      "description": 0.4259257499,
+      "price": "$700.77",
+      "image": "https://image.made-in-china.com/155f0j00MwRWvjusQeqS/Summer-Nine-Points-Bunched-Leg-Jeans-Men-s-Korean-Version-Gradual-Change-Small-Leg-Pants-Fashion-Men-s-Letters-Elastic-Waist-Harlan-Pants.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Casual Jeanse",
+      "instok": 100,
+      "description": "VODOF Männer Casual Baumwolle Denim Hose Multi Tasche Fracht Jeans Männer Neue Mode Denim Hosen Große größe",
+      "price": "$400.08",
+      "image": "https://ae01.alicdn.com/kf/Hdd70ab3a02674d488dcab6e72b608931E.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Stretch Jeans",
+      "instok": 60,
+      "description": 0.0126652831,
+      "price": "$300.06",
+      "image": "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/25882/238296/Mens-Slim-Fit-jeans-Men-Stretch-Fashion-Skinny-Jeans-Trousers-Male-Super-Elastic-Casual-Straight-Blue__25597.1549623888.jpg?c=2?imbypass=on"
+    },
+    {
+      "id": 6,
+      "name": "Jeans Loose Fit",
+      "instok": 80,
+      "description": "Fashion Casual Long Sleeve Hoodie Men ",
+      "price": "$100.62",
+      "image": "https://ae01.alicdn.com/kf/H6498503d21254a299794855ac017a231N/2020-Newly-Korean-Style-Fashion-Men-Jeans-Black-Loose-Fit-Spliced-Designer-Ripped-Denim-Harem-Pants.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Trench Coat",
+      "instok": 90,
+      "description": 0.8882158025,
+      "price": "$900.76",
+      "image": "https://ae01.alicdn.com/kf/HTB1Tt0CwmBYBeNjy0Feq6znmFXaQ.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Side Stripe Jeanse",
+      "instok": 20,
+      "description": 0.7942818212,
+      "price": "$200.11",
+      "image": "https://ae01.alicdn.com/kf/H671a0ea69c8242e1bf142177ea196ed69/Men-Side-Stripe-Jeans-Fashion-Stretch-Denim-Slim-Fit-Pencil-Pants-Korean-Style-Gray-Black-Trousers.jpg_Q90.jpg_.webp"
+    },
+    {
+        "id": 9,
+        "name": "Jeans Slim Pants",
+        "instok": 80,
+        "description": "Men's Jeans Slim Pants Tight Men. ",
+        "price": "$100.62",
+        "image": "https://www.dhresource.com/0x0/f2/albu/g10/M00/BE/49/rBVaVl6WiwuACyIhAAIhyFvDoDE020.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Trench Coat",
+        "instok": 90,
+        "description": 0.8882158025,
+        "price": "$900.76",
+        "image": "https://static-01.daraz.com.bd/p/c04c6ee23397e60e292bbc3e497c2391.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Denim Jeanse",
+        "instok": 20,
+        "description": "Smart & Stylish Denim Jeans Pant For Men",
+        "price": "$200.11",
+        "image": "https://static-01.daraz.com.bd/p/3d77f6eb69bff77d34c21fb509e3fdb8.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Strategist",
+        "instok": 20,
+        "description": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission.",
+        "price": "$200.11",
+        "image": "https://pyxis.nymag.com/v1/imgs/c2a/150/2ada9124067b6c277f351eaac83d99edaf-PhotoSend2.rsquare.w600.jpg"
+      }
+  ]
+  

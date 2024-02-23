@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "instok": 50,
+    "description": 2.9307604836,
+    "price": "$100.00",
+    "images": [
+      "https://ventsmagazine.com/wp-content/uploads/2021/11/aaas.jpg",
+      "https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/t/-/t-shirt-men-2018-spring-summer-new-long-sleeve-o-neck-t-shirt-men-brand-clothing-fashion-patchwork-cotton-tee-tops-extra-image-1.jpg",
+      "https://5.imimg.com/data5/QS/ML/MY-27678632/casual-t-shirt-250x250.jpg"
+    ]
+  }
+]

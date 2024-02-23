@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "image":[
+            "https://media.istockphoto.com/photos/young-man-looking-at-clothes-to-buy-at-shop-picture-id475592246?k=20&m=475592246&s=612x612&w=0&h=aJoA21Afn2M-fAgiI4wWjIsgALhY5pgpPmLWNq4IOJA=",
+            "https://www.washingtonian.com/wp-content/uploads/2016/03/3-14-16-menswear-shops-dc.jpg"
+        ] 
+    },
+    {
+        "id": 2,
+        "image":[
+            "https://media.istockphoto.com/photos/men-shopping-sports-clothes-picture-id490611033?k=20&m=490611033&s=170667a&w=0&h=MdFol39mU9SnL5nLcMiA7jFnujpYmGokcuSZXDp_Kgc=",
+            "https://media.istockphoto.com/photos/man-shopping-in-the-store-picture-id1305951350?k=20&m=1305951350&s=170667a&w=0&h=fUkhwN28QjQPdvL-flxw1XYFA5g35eyCBn1R0yNd8fQ="
+        ] 
+    }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Polyster",
+    "instok": 50,
+    "description": 2.9307604836,
+    "price": "$400.22",
+    "image":"https://static-01.daraz.com.bd/p/f37215bb31cc8d0bc904f1e613b71c84.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Casual Jaket",
+    "instok": 40,
+    "description": 1.311633315, 
+    "price": "$350.93",
+    "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/72/966242/1.jpg?1054"
+  },
+  {
+    "id": 3,
+    "name": "Coat",
+    "instok": 30,
+    "description": 0.4259257499,
+    "price": "$700.77",
+    "image": "https://ae01.alicdn.com/kf/Hb86231a1889e4751a001ff9fe3e6f71em.jpg?width=930&height=930&hash=1860"
+  },
+  {
+    "id": 4,
+    "name": "Stylish Jaket",
+    "instok": 100,
+    "description": 0.1847819597,
+    "price": "$400.08",
+    "image": "https://i.pinimg.com/736x/15/01/4f/15014fb57cbb0feaafd43c8a9f5aa58b--cool-jackets-mens-jackets.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Autumun Trendy",
+    "instok": 60,
+    "description": 0.0126652831,
+    "price": "$600.06",
+    "image": "https://cf.shopee.ph/file/55050fe9a6cfdc9f40b7ecfd07877e17"
+  },
+  {
+    "id": 6,
+    "name": "Long Sleeve Hoodie",
+    "instok": 80,
+    "description": "Fashion Casual Long Sleeve Hoodie Men ",
+    "price": "$500.62",
+    "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/07/319842/1.jpg?3027"
+  },
+  {
+    "id": 7,
+    "name": "Trench Coat",
+    "instok": 90,
+    "description": 0.8882158025,
+    "price": "$900.76",
+    "image": "https://ae01.alicdn.com/kf/Hddc0bd4355c947cd843c15972bc2bf83T/Autumn-And-Winter-New-Style-Stand-up-Collar-Ultra-Light-Thin-down-Jacket-Men-s-Short.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Leather Jaket",
+    "instok": 20,
+    "description": 0.7942818212,
+    "price": "$700.11",
+    "image": "https://elegant-man.com/wp-content/uploads/2016/12/Stylish-Mens-Jacket-N1-8.jpg"
+  }
+]
